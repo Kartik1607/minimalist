@@ -9,7 +9,7 @@ This project was part of training at <a href='http://www.nagarro.com/en'>Nagarro
 
 ## Live Demo
 
-Live Demo is hosted using [Github pages](kartik1607.github.io/minimalist)
+Live Demo is hosted using [Github pages](https://kartik1607.github.io/minimalist/)
 
 ## Development server
 

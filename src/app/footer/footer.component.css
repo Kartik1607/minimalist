@@ -1,0 +1,45 @@
+.footer {
+  height: auto;
+  background-color: black;
+  padding: 60px 0px;
+}
+
+.brand {
+  height: 16px;
+}
+
+.mn-table {
+  margin-top: 20px;
+  color: white;
+  width: 100%;
+}
+
+td {
+  padding: 10px 100px 0px 0px;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.mn-table td:last-child{
+  padding-right: 0px;
+  width: 100%;
+  text-align: right;
+  font-size: 20px;
+}
+
+i {
+  padding-left: 20px;
+}
+
+
+
+td > a{
+  color: white;
+}
+
+td > a:hover, i:hover{
+  color: #666666;
+  cursor: pointer;
+  text-decoration: none;
+}

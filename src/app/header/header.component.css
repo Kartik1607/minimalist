@@ -1,0 +1,35 @@
+.navbar .navbar-toggle .icon-bar {
+  background-color: black;
+}
+.navbar-brand {
+  padding: 40px 0px;
+}
+
+.navbar {
+  background: white;
+}
+
+.navbar-brand > img {
+  height: 16px;
+}
+
+.navbar-nav {
+  line-height: 50px;
+  padding-top: 20px;
+}
+
+.navbar-nav > li > a{
+  color: #666666;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav > li > a:hover{
+  color: red;
+  background: transparent;
+  cursor: pointer;
+  transition-property: color;
+  transition-duration: 1s;
+}
+
+

@@ -1,0 +1,14 @@
+.nopadding{
+  padding:0px;
+}
+
+.big-div{
+  height: 1000px;
+  overflow: hidden;
+}
+
+.small-div {
+  height:500px;
+  overflow: hidden;
+}
+

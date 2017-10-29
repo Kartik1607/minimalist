@@ -1,0 +1,55 @@
+.mainText {
+  font-size: 50px;
+  font-family:'Roboto', sans-serif;
+  font-weight: 100;
+  color: #666666;
+  padding:200px;
+}
+
+.secondaryText{
+  text-align: left;
+  font-size: 20px;
+  font-family:'Roboto', sans-serif;
+  list-style: none;
+}
+
+.secondaryText > li {
+  padding-top: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  color: red;
+  cursor: pointer;
+}
+
+.row.is-flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row.is-flex > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+.moreProjects {
+  font-size: 20px;
+  font-family:'Roboto', sans-serif;
+  font-weight: 400;
+  color: #666666;
+  padding:40px;
+  margin: auto;
+  text-align: center;
+}
+
+.moreProjects:hover {
+  color:red;
+  transition-property: color;
+  transition-duration: 1s;
+  cursor: pointer;
+}

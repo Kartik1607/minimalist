@@ -1,0 +1,19 @@
+img {
+  width: 100%;
+  float: left;
+}
+
+.slidetext {
+  z-index: 1; /*places slide text, i.e.<p> element, on top of everything else*/
+  text-align: left;
+  position: absolute; /*places text on top of image instead of next to it (relative)*/
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  transform: translate(100px);
+}
+
+small {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}

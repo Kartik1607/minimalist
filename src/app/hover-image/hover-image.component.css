@@ -1,0 +1,45 @@
+img {
+  height: 100%;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.positionClass {
+  height: 100%;
+}
+
+
+div:hover .gradient {
+  color: black;
+  background-color: rgba(255,255,255,0.5); /* Black background with opacity */
+  transition-property: background-color, color;
+  transition-duration: 2s;
+}
+
+.pos{
+  color: transparent;
+  position: absolute;
+  max-width: 100%; /* Full width (cover the whole page) */
+  max-height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+}
+
+.heading {
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  font-weight: 100;
+}
+
+.subHeading {
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 35px;
+  font-weight: 100;
+}

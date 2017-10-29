@@ -1,7 +1,7 @@
 # Minimalist 
 
 The project is a simple introduction to angular. 
-It is a small mock up of [Minimalist](https://theminimalist.in) website.
+It is a static mock up of [Minimalist](https://theminimalist.in) landing website minus the animations.
 This project was part of training at <a href='http://www.nagarro.com/en'>Nagarro</a> which was provided by <a href='https://codingblocks.com/'>Codingblocks.</a> 
 
 

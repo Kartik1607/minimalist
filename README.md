@@ -1,27 +1,31 @@
-# Minimalist
+# Minimalist 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+The project is a simple introduction to angular. 
+It is a small mock up of [Minimalist](https://theminimalist.in) website.
+This project was part of training at <a href='http://www.nagarro.com/en'>Nagarro</a> which was provided by <a href='https://codingblocks.com/'>Codingblocks.</a> 
+
+
+<img src='https://imgur.com/PyqX3P6.png'/>
+
+## Live Demo
+
+Live Demo is hosted using [Github pages](kartik1607.github.io/minimalist)
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
+## Built With  :heart:   using
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* [TypeScript](https://www.typescriptlang.org) - Javascript that scales.
+* [Bootstrap](https://getbootstrap.com/) - Frontend Responsive Webpage.
+* [Webpack](https://webpack.js.org/) - Preferred module bundler.
+* [Angular](https://angular.io) - Framework to learn.
 
-## Running end-to-end tests
+## License
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This project is licensed under the MIT License - see the LICENSE.md file for details

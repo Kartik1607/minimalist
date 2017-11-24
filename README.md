@@ -1,4 +1,4 @@
-# Medium 
+# Minimalist
 
 It is a mini mock up of [Medium](https://medium.com).
 This project was part of training at <a href='http://www.nagarro.com/en'>Nagarro</a> which was provided by <a href='https://codingblocks.com/'>Codingblocks.</a> 

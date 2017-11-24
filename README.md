@@ -5,19 +5,17 @@ It is a static mock up of [Minimalist](https://theminimalist.in) landing website
 This project was part of training at <a href='http://www.nagarro.com/en'>Nagarro</a> which was provided by <a href='https://codingblocks.com/'>Codingblocks.</a> 
 
 
-<img src='https://imgur.com/PyqX3P6.png'/>
+<img src='https://imgur.com/s5y8fAG.png'/>
+<img src='https://imgur.com/35Tb2oz.png'/>
 
 ## Live Demo
 
-Live Demo is hosted using [Github pages](https://kartik1607.github.io/minimalist/)
+Live Demo is hosted using [Heroku](ng-medium.herokuapp.com/)
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng build --base-href` for a dev server. Navigate to Backend folder.`cd Backend` `npm start`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
 ## Built With  :heart:   using
 
@@ -25,6 +23,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 * [Bootstrap](https://getbootstrap.com/) - Frontend Responsive Webpage.
 * [Webpack](https://webpack.js.org/) - Preferred module bundler.
 * [Angular](https://angular.io) - Framework to learn.
+* [Node](https://nodejs.org) - JS Server
 
 ## License
 

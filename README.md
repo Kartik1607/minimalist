@@ -13,7 +13,7 @@ Live Demo is hosted using [Heroku](ng-medium.herokuapp.com/)
 
 ## Development server
 
-Run `ng build --base-href` for a dev server. Navigate to Backend folder.`cd Backend` `npm start`.
+Run `ng build --base-href="/"` from Frontend folder for compiling angular code.. Navigate to Backend folder. `node index.js`.
 
 
 ## Built With  :heart:   using
@@ -23,6 +23,8 @@ Run `ng build --base-href` for a dev server. Navigate to Backend folder.`cd Back
 * [Webpack](https://webpack.js.org/) - Preferred module bundler.
 * [Angular](https://angular.io) - Framework to learn.
 * [Node](https://nodejs.org) - JS Server
+* [MongoDB](https://mongodb.com) - Database Used
+* [Mongoose](http://mongoosejs.com) - Database library
 
 ## License
 
